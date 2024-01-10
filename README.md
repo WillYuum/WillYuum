@@ -1,6 +1,6 @@
 👋 Hey there! I'm @WillYuum, a passionate game developer with a keen interest in Rust programming. 🎮
-
-👀 I love diving into the world of game development and exploring exciting software projects.
+   
+👀 I love diving into the world of game development and exploring exciting software projects.   
 💞️ Open to collaboration on innovative software tools, game projects, and anything involving the magic of Rust!
 📫 Feel free to connect with me at liamshere98@gmail.com. Let's build something amazing together. 
 
